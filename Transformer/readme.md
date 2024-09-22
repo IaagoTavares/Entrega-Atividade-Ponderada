@@ -2,7 +2,7 @@
 
 O codigo presente no arquivo Atividade_Transformer_Iago_Tavares.ipynb implementa um modelo Transformer para tradução de texto. O notebook inclui o carregamento de um modelo pré-treinado e o processo de inferência para traduzir sentenças do português para o inglês. Durante a execução, não foi possivel executar completamente o treinamento do modelo por conta do alto tempo de execução.  
 
-![alt text](image.png)
+![alt text](./Imagem%20treinamento.PNG)
 
 
 ## Pontos positivos
