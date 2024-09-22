@@ -8,7 +8,12 @@ O codigo presente no arquivo Atividade_Transformer_Iago_Tavares.ipynb implementa
 ## Pontos positivos
 
 **Uso do Transformer**: O projeto utiliza a arquitetura Transformer, que é uma das mais avançadas e eficazes para tarefas de tradução e NLP em geral.
-**Modelo pré-treinado**: A utilização de um modelo pré-treinado acelera o processo e melhora a performance, evitando a necessidade de treinar do zero.
+
+
+**Modelo pré-treinado**: A utilização de um modelo pré-treinado acelera o processo e melhora a performance, evitando a necessidade 
+de treinar do zero.
+
+
 **Salvamento e recarregamento do modelo**: A funcionalidade de salvar e recarregar o modelo facilita a reutilização e a aplicação prática em diferentes ambientes.
 
 
